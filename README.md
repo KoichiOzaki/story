@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+for study flux.
+React + Flux Backed by Rails API
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+####refere
+user authenticable with devise gem
+CSRF on sign in
+http://blog.plataformatec.com.br/2013/08/devise-3-1-now-with-more-secure-defaults/
